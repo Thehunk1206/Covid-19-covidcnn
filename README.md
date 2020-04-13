@@ -19,7 +19,7 @@ To read Motivation and Goal behind this research go to this [Github link](https:
 
 
 This repository will be updating as the dataset will grow more and more.
-Any contribution would be appriciated.
+Any contribution would be appreciated.
 
 ## Citation
 
