@@ -7,11 +7,11 @@
 ![Model Loss](https://github.com/Thehunk1206/Covid-19-chest-X-ray/blob/master/model/modelLoss_100.png)
 
 
-To read Motivation and Goal behind this research go to this ![Github link](https://github.com/ieee8023/covid-chestxray-dataset/blob/master/README.md).
+To read Motivation and Goal behind this research go to this [Github link](https://github.com/ieee8023/covid-chestxray-dataset/blob/master/README.md).
 
 ## Dataset source 
-![Covid19](https://github.com/ieee8023/covid-chestxray-dataset)
-![pnemonia and normal X-ray](https://data.mendeley.com/datasets/rscbjbr9sj/2)
+[Covid19](https://github.com/ieee8023/covid-chestxray-dataset)
+[pnemonia and normal X-ray](https://data.mendeley.com/datasets/rscbjbr9sj/2)
 
 
 
