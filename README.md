@@ -7,8 +7,7 @@ To read Motivation and Goal behind this research go to this [Github link](https:
 ![Model Accuracy](model/images/modelAccuracy_100.png)
 ![Model Loss](model/images/modelLoss_100.png)
 
-
-* This model was trained on very small sets of images, therfore the model is not generalized enough to use. 
+* This model was trained on **very small sets of images**, therfore the model is not **generalized** enough to use. 
 
 # Deploying model
 After the model was trained it was compressed into [tflite](https://www.tensorflow.org/lite/) model. After which it was 
