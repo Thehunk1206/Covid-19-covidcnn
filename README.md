@@ -4,8 +4,8 @@ To read Motivation and Goal behind this research go to this [Github link](https:
 
 
 # Model Result
-![Model Accuracy](https://github.com/Thehunk1206/Covid-19-chest-X-ray/blob/master/model/modelAccuracy_100.png)
-![Model Loss](https://github.com/Thehunk1206/Covid-19-chest-X-ray/blob/master/model/modelLoss_100.png)
+![Model Accuracy](model/images/modelAccuracy_100.png)
+![Model Loss](model/images/modelLoss_100.png)
 
 # Deploying model
 After the model was trained it was compressed into [tflite](https://www.tensorflow.org/lite/) model. After which it was 
