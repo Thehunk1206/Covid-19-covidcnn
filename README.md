@@ -1,6 +1,6 @@
 # 🛑 Note: This model is still not reliable to use. It is just a research for now. 
 
-To read Motivation and Goal behind this research go to this [Github link](https://github.com/ieee8023/covid-chestxray-dataset/blob/master/README.md).
+To read Motivation and Goal behind this research go to this [Github Repository](https://github.com/ieee8023/covid-chestxray-dataset/blob/master/README.md).
 
 
 # Model Result
@@ -20,20 +20,16 @@ width="200" height="400"/>
 <img src="https://github.com/Thehunk1206/Covid-19-chest-X-ray/blob/master/Application/Application%20Screenshot/Screenshot_20200413-200120.png" alt="ss"
 width="200" height="400"/>
 
-
-
-
 # Dataset source 
 - [Covid19](https://github.com/ieee8023/covid-chestxray-dataset).
 - [pnemonia and normal X-ray](https://data.mendeley.com/datasets/rscbjbr9sj/2)
 
 
-
-
 This repository will be updating as the dataset will grow more and more.
 Any contribution would be appreciated.
 
-## Citation
+
+# Citation
 
 Paper availabe [here](https://arxiv.org/abs/2003.11597)
 
