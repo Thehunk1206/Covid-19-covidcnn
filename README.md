@@ -12,12 +12,20 @@ To read Motivation and Goal behind this research go to this [Github link](https:
 After the model was trained it was compressed into [tflite](https://www.tensorflow.org/lite/) model. After which it was 
 deployed on [flutter](https://flutter.dev/) application.
 ## ScreenShots of Flutter application
+<img src="https://github.com/Thehunk1206/Covid-19-chest-X-ray/blob/master/Application/Application%20Screenshot/Screenshot_20200413-200009.png" alt="ss"
+width="200" height="400"/>
+<img src="https://github.com/Thehunk1206/Covid-19-chest-X-ray/blob/master/Application/Application%20Screenshot/Screenshot_20200413-200028.png" alt="ss"
+width="200" height="400"/>
+<img src="https://github.com/Thehunk1206/Covid-19-chest-X-ray/blob/master/Application/Application%20Screenshot/Screenshot_20200413-200120.png" alt="ss"
+width="200" height="400"/>
+
+
 
 
 # Dataset source 
 - [Covid19](https://github.com/ieee8023/covid-chestxray-dataset).
 - [pnemonia and normal X-ray](https://data.mendeley.com/datasets/rscbjbr9sj/2)
-![ss1](Application/Application\ Screenshot/Screenshot_20200413-195927.png)
+
 
 
 
