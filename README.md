@@ -1,6 +1,23 @@
 # 🛑 Note: This model is still not reliable to use. It is just a research for now. 
 
 To read Motivation and Goal behind this research go to this [Github Repository](https://github.com/ieee8023/covid-chestxray-dataset/blob/master/README.md).
+# Dataset 
+```
+dataset
+├── test
+│   ├── covid19 [32 entries]
+│   ├── normal [25 entries]
+│   └── pneumonia [20 entries]
+├── train
+│   ├── covid19 [219 entries]
+│   ├── normal [210 entries]
+│   └── pneumonia [210 entries]
+└── validate
+    ├── covid19 [32 entries]
+    ├── normal [20 entries]
+    └── pneumonia [20 entries]
+```
+
 # Model Design
 ![model_161](model/images/Covidcnn_161.svg)
 
