@@ -21,6 +21,7 @@ Soon more data will be added
 
 
 # Model Design
+It is a custom model designed using Residual Blocks. Learn more about [Residual block](https://arxiv.org/abs/1512.03385)
 ![model_161](model/images/Covidcnn_161.svg)
 
 
