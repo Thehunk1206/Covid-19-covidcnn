@@ -17,6 +17,8 @@ dataset
     ├── normal [20 entries]
     └── pneumonia [20 entries]
 ```
+Soon more data will be added
+
 
 # Model Design
 ![model_161](model/images/Covidcnn_161.svg)
