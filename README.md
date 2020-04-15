@@ -30,6 +30,8 @@ width="200" height="400"/>
 This repository will be updating as the dataset will grow more and more.
 Any contribution would be appreciated.
 
+**more detailed documentation comming soon**
+
 
 # Citation
 
