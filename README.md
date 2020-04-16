@@ -2,7 +2,7 @@
 
 To read Motivation and Goal behind this research go to this [Github Repository](https://github.com/ieee8023/covid-chestxray-dataset/blob/master/README.md).
 # Dataset 
-```
+```sh
 dataset
 ├── test
 │   ├── covid19 [32 entries]
