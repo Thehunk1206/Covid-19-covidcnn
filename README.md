@@ -2,7 +2,7 @@
 
 To read Motivation and Goal behind this research go to this [Github Repository](https://github.com/ieee8023/covid-chestxray-dataset/blob/master/README.md).
 # Dataset 
-```sh
+```
 dataset
 ├── test
 │   ├── covid19 [32 entries]
@@ -32,6 +32,25 @@ It is a custom model designed using Residual Blocks. Learn more about [Residual 
 ![Model Loss](model/images/modelLoss_100.png)
 
 * This model was trained on **very small sets of images**, therfore the model is not **generalized** enough to use. 
+
+# Usage
+```
+$python3 detect.py --help
+usage: detect.py [-h] -m MODEL -i IMAGE
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -m MODEL, --model MODEL
+                        path to model
+  -i IMAGE, --image IMAGE
+                        path to input image
+
+```
+Example
+```
+python3 detect.py -m model/trained_model/covid-19_large.h5 -i model/samples/normal.jpeg 
+```
+
 
 # Deploying model
 
