@@ -62,8 +62,13 @@ def main():
             st.subheader("Result: "+result)
             st.write("Confidence %.2f" %(np.max(pred[0])*100)+"%")
             st.info('Inference took %.2f ms'%((inference_time)*1000))
-    st.sidebar.markdown("# Warning")
-    st.sidebar.markdown("*This is model is not reliable to use and it is just for Research purposes")
+
+    st.sidebar.markdown("# About")
+    st.sidebar.markdown("Made with :heart: by Tauhid Khan :boy:")
+    st.sidebar.markdown("------")
+    st.sidebar.markdown("# :warning: Warning")
+    st.sidebar.markdown("* This is model is not reliable to use and it is just for Research purposes")
+    
     
     
 
