@@ -64,6 +64,8 @@ width="200" height="400"/>
 <img src="https://github.com/Thehunk1206/Covid-19-chest-X-ray/blob/master/Application/Application%20Screenshot/Screenshot_20200413-200120.png" alt="ss"
 width="200" height="400"/>
 
+model has been deplyed on a [WebApp](https://covid-scanner.herokuapp.com/)
+
 # Dataset source 
 - [Covid19](https://github.com/ieee8023/covid-chestxray-dataset).
 - [pnemonia and normal X-ray](https://data.mendeley.com/datasets/rscbjbr9sj/2)
