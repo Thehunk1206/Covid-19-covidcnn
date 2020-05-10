@@ -65,6 +65,8 @@ width="200" height="400"/>
 width="200" height="400"/>
 
 model has been deplyed on a [WebApp](https://covid-scanner.herokuapp.com/)
+![webApp ss](https://github.com/Thehunk1206/Covid-19-covidcnn/blob/master/model/images/webapp.png)
+
 
 # Dataset source 
 - [Covid19](https://github.com/ieee8023/covid-chestxray-dataset).
